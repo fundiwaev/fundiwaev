@@ -1,9 +1,10 @@
 # ⚡ FundiwaEV
 
-> **Open-Source Electric Vehicle Innovation for Africa**
+> **Electric Vehicle Innovation for Africa**
 
-Welcome to **FundiwaEV** — an open-source initiative dedicated to building EV software, hardware tools, and educational resources tailored for Africa’s mobility future.
+Welcome to **FundiwaEV** — an initiative dedicated to building EV software, hardware tools, and educational resources tailored for Africa’s mobility future.
 We’re making EV development **transparent, modular, and community-driven**.
+In simple terms, building from scratch.
 
 ---
 
@@ -17,14 +18,14 @@ We’re making EV development **transparent, modular, and community-driven**.
 
 ## 🚗 Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [Vehicle OS](./vehicle-os) | Lightweight operating system for EVs. CAN bus + BMS + motor APIs | 🚧 In Development |
-| [VHAL Simulator](./vhal-simulator) | Android Automotive demo tools (CAN/UART → tablet) | ✅ Prototype |
-| [EV Calculator](./ev-calculator) | Web app to estimate charging cost & range in Kenya | ✅ Live Demo |
-| [Charging Map](./charging-map) | Django app for Kenya’s EV charging infrastructure | 🚧 Ongoing |
-| [Skateboard Design](./skateboard-design) | Open CAD + wiring diagrams for modular EV chassis | 🚧 Early Stage |
-| [Docs](./fundiwa-docs) | EV guides, standards, and technical notes | 📖 Growing |
+| Project                                  | Description                                                      | Status            |
+|------------------------------------------|------------------------------------------------------------------|-------------------|
+| [Vehicle OS](./vehicle-os)               | Lightweight operating system for EVs. CAN bus + BMS + motor APIs | 🚧 In Development |
+| [VHAL Simulator](./vhal-simulator)       | Android Automotive demo tools (CAN/UART → tablet)                | ✅ Prototype      |
+| [EV Calculator](./ev-calculator)         | Web app to estimate charging cost & range in Kenya               | ✅ Live Demo      |
+| [Charging Map](./charging-map)           | Django app for Kenya’s EV charging infrastructure                | 🚧 Ongoing        |
+| [Skateboard Design](./skateboard-design) | Open CAD + wiring diagrams for modular EV chassis                | 🚧 Early Stage    |
+| [Docs](./fundiwa-docs)                   | EV guides, standards, and technical notes                        | 📖 Growing        |
 
 ---
 
