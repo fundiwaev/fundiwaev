@@ -20,12 +20,12 @@ In simple terms, building from scratch.
 
 | Project                                  | Description                                                      | Status            |
 |------------------------------------------|------------------------------------------------------------------|-------------------|
-| [DroidCon25 Workshop](./droidcon25)      | Presentation material for DroidCon25 - Nov 4,5,6                 | 🚧 In Development |
-| [VHAL Simulator](./vhal-simulator)       | Android Automotive demo tools (CAN/UART)                         | ✅ Prototype      |
+| [DroidCon25 Workshop](https://github.com/fundiwaev/droidcon25)      | Presentation material for DroidCon25 - Nov 4,5,6                 | 🚧 In Development |
+| [VHAL Simulator]       | Android Automotive demo tools (CAN/UART)                         | ✅ Prototype      |
 | [AAOS-RaspberryPi5]                      | DroidCon25 Live Demo                                             | ✅ Live Demo      |
 | [Charging Map](./charging-map)           | Flask app for Kenya’s EV charging infrastructure                 | 🚧 Ongoing        |
-| [Skateboard Design](./skateboard-design) | Open CAD + wiring diagrams for modular EV chassis                | 🚧 Early Stage    |
-| [Docs](./fundiwa-docs)                   | EV guides, standards, and technical notes                        | 📖 Growing        |
+| [Skateboard Design](https://www.youtube.com/@fundiwaev) | FreeCAD-Dlender + wiring diagrams for modular EV chassis                | 🚧 Early Stage    |
+| [Docs]                   | EV guides, standards, and technical notes                        | 📖 Growing        |
 
 ---
 
